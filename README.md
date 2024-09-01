@@ -7,9 +7,9 @@
 因此，需要安装pandas第三方库：
 `pip install pandas`
 
-Windows
+**Windows**
 - windows可直接双击打开，或者在IDLE中运行
 
-Mac 
+**Mac**
 - 双击进入IDLE，在IDLE中运行
 - 或者直接将代码粘贴在jupyter中直接运行
